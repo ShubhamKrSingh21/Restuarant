@@ -1,2 +1,2 @@
-## Welcome to Restuarant website:
-# Food Provided:
+# Welcome to Restuarant website:
+## Food Provided:
